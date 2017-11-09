@@ -1,0 +1,86 @@
+Problem,filepath,tags
+jimAndSkyScrapers,HackerRank/stack,~
+maximumIndexProduct,HackerRank/stack,~
+mrXandHisShots,HackerRank/Array,upper_bound interval overlapping
+kinderGartenAdventures,HackerRank/Array,~
+componentsInGraph,HackerRank/disjointSet,~
+kunduAndTree,HackerRank/disjointSet,~
+mergingCommunity,HackerRank/disjointSet,~
+superMaximumCostQueries,HackerRank/disjointSet,~
+cityAndFiremanVinent,HackerEarth/disjointSet,~
+monkAndPalindromes,HackerEarth/disjointSet,~
+sabotage,HackerEarth/disjointSet,~
+utkarshAndSubarrayXor,HackerEarth/disjointSet,~
+AndXorOr,HackerRank/stack,~
+balancedBrackets,HackerRank/stack,~
+equalStacks,HackerRank/stack,~
+gameOfTwoStacks,HackerRank/stack,~
+largestRectangle,HackerRank/stack,~
+maximumElement,HackerRank/stack,~
+poisonousPlant,HackerRank/stack,~
+simpleTextEditor,HackerRank/stack,~
+waiter,HackerRank/stack,~
+castleOnTheGrid,HackerRank/queue,~
+downToZero,HackerRank/queue,~
+queriesWithFixedLength,HackerRank/queue,~
+truckTour,HackerRank/queue,~
+minimumAverageWaitingTime,HackerRank/heap,~
+findTheRunningMedian,HackerRank/heap,~
+jesseAndCookies,HackerRank/heap,~
+qHeap,HackerRank/heap,~
+contacts,HackerRank/trie,~
+noPrefixSet,HackerRank/trie,~
+roadsAndLibraries,HackerRank/graph,DSU
+journeyToTheMoon,HackerRank/graph,DSU
+synchronousShopping,HackerRank/graph,Dijikstra & bitmask
+evenTree,HackerRank/graph,DP_onTree
+theStoryOfaTree,HackerRank/graph,DP on Tree
+prim,HackerRank/graph,prim
+minimumPenaltyPath,HackerRank/graph,BFS & bitmask
+jackGoesToRapture,HackerRank/graph,Dijikstra
+jeanie'sRoute,HackerRank/graph,Diameter Of Tree & DP on Tree
+roadsInHackerland,HackerRank/graph,~
+rustAndMurderer,HackerRank/graph,BFS on Complement Graph with same complexity
+coinChange,HackerRank/dp,~
+equal,HackerRank/dp,making values equal
+sherlockAndCost,HackerRank/dp,~
+candies,HackerRank/dp,~
+maximumSubArray,HackerRank/dp,~
+samAndSubstring,HackerRank/dp,sum of all substring of integer string
+abbreviation,HackerRank/dp,~
+luckBalance,HackerRank/greedy,~
+maximumPerimeterTriangle,HackerRank/greedy,~
+beautifulPairs,HackerRank/greedy,~
+sherlockAndTheBeast,HackerRank/greedy,~
+priyankaAndToys,HackerRank/greedy,One side range Covering
+largestPermutation,HackerRank/greedy,max value with atmost k swaps
+maxMin,HackerRank/greedy,~
+goodlandElectricity,HackerRank/greedy,range covering both sides
+connectedCellsInGrid,HackerRank/search,~
+countLuck,HackerRank/search,~
+cutTheTree,HackerRank/search,~
+gridLandMetro,HackerRank/search,~
+hackerLandRadioTransmiters,HackerRank/search,~
+iceCreamParlor,HackerRank/search,~
+knightLonChessBoard,HackerRank/search,~
+minimumLoss,HackerRank/search,~
+missingNumbers,HackerRank/search,~
+pairs,HackerRank/search,~
+sherlockAndArray,HackerRank/search,~
+encryption,HackerRank/implementation,~
+biggerisGreater,HackerRank/implementation,~
+extraLongFactorials,HackerRank/implementation,~
+nonDivisibleSubset,HackerRank/implementation,~
+queen'sAttackII,HackerRank/implementation,~
+alternatingCharacters,HackerRank/string,~
+beautifulBinaryString,HackerRank/string,~
+funnyString,HackerRank/string,~
+gameOfThronesI,HackerRank/string,~
+gemStones,HackerRank/string,~
+palindromeIndex,HackerRank/string,~
+RichieRich,HackerRank/string,~
+separateTheNumbers,HackerRank/string,~
+sherlockAndAnagrams,HackerRank/string,~
+sherlockAndTheValidString,HackerRank/string,~
+superReducedString,HackerRank/string,~
+weightedUnifromString,HackerRank/string,~
